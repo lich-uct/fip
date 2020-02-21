@@ -28,6 +28,12 @@ fip provides tools to quantify such interrelations in given sets of binary featu
 ## Installation
 
 fip is written in Python3 only, so just cloning this repository and adding it to pythonpath should work fine.
+
+[Conda](https://docs.conda.io/en/latest/) users may also install fip from the [Anaconda](https://anaconda.org/about) cloud:
+```bash
+conda install -c rdkit -c lich fip
+```
+
 The main dependencies are currently:
 * [Pandas](https://pandas.pydata.org/) for data analysis
 * [RDKit](https://www.rdkit.org/) for chemistry-related functionality, especially structural fingerprints

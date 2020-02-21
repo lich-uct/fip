@@ -1,0 +1,5 @@
+include fiprofiling/data/precomputed_rm/chembl/*.csv
+include fiprofiling/data/precomputed_rm/pubchem/*.csv
+include fiprofiling/data/precomputed_rm/drugbank/*.csv
+include fiprofiling/data/precomputed_rm/zinc/*.csv
+include fiprofiling/data/precomputed_rm/synthetizable/*.csv
